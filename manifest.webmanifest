@@ -1,0 +1,19 @@
+{
+  "name": "Panel DGRFISS",
+  "short_name": "DGRFISS",
+  "description": "Gestion de RRHH y procesos de la Direccion de Recursos Fisicos en Salud",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
