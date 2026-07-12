@@ -10,7 +10,7 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "icon-nodo-square.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
